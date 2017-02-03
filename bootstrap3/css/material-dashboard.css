@@ -386,7 +386,7 @@ h6, .h6 {
   font-weight: 500;
 }
 
-/*.title,
+.title,
 .card-title,
 .info-title,
 .footer-brand,
@@ -401,7 +401,7 @@ h6, .h6 {
         color: $black-color;
         text-decoration: none;
     }
-}*/
+}
 h2.title {
   margin-bottom: 30px;
 }
@@ -4621,7 +4621,7 @@ footer .btn {
     margin-top: 0px;
   }
 
-  /*.navbar-nav > li > .dropdown-menu:before{
+  .navbar-nav > li > .dropdown-menu:before{
       border-bottom: 11px solid rgba(0, 0, 0, 0.2);
       border-left: 11px solid rgba(0, 0, 0, 0);
       border-right: 11px solid rgba(0, 0, 0, 0);
@@ -4640,7 +4640,7 @@ footer .btn {
       position: absolute;
       left: 12px;
       top: -10px;
-  }*/
+  }
   .navbar-nav.navbar-right > li > .dropdown-menu:before {
     left: auto;
     right: 12px;

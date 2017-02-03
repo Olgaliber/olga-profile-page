@@ -27,7 +27,7 @@ h3, .h3 {
 
 h4, .h4 {
   font-size: 1.5em;
-  font-weight: 200;
+  font-weight: 600;
   line-height: 1.2em;
 }
 
@@ -387,8 +387,8 @@ input.ct-red + span + label + span.switch-right {
 }
 
 .navbar .navbar-nav > li > a.btn-primary, .btn-primary {
-  border-color: #FEA277;
-  color: #FEA277;
+  border-color: #7A9E9F;
+  color: #7A9E9F;
 }
 .navbar .navbar-nav > li > a.btn-primary:hover, .navbar .navbar-nav > li > a.btn-primary:focus, .navbar .navbar-nav > li > a.btn-primary:active, .navbar .navbar-nav > li > a.btn-primary.active, .open > .navbar .navbar-nav > li > a.btn-primary.dropdown-toggle, .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .btn-primary.dropdown-toggle {
   background-color: #7A9E9F;
@@ -3122,11 +3122,11 @@ textarea.form-control {
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  */
-/*
+/*  
  *
  *   SCSS by Creative Tim
  *   http://www.creative-tim.com
- *
+ *   
  */
 .datepicker {
   top: 0;

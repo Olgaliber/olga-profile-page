@@ -1,8 +1,43 @@
 /*my added classes*/
 
+.profile-placeholder{
+  width: 5000%;
+  height: 5000%;
+}
+
+.about-section {
+  font-size: 25px;
+  padding-top: 60px;
+  padding-left: 500px;
+}
+
+.tim-typo p {
+  font-size: 33px;
+  margin: 40px;
+}
+
 .img-circle {
     border-radius: 50%;
 }
+
+.section .section-nude p .about-section {
+  padding-left: 600px;
+}
+
+.recent-work-left {
+  text-align: left;
+  margin-left: 30px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+/*end of my added classes*/
 
 
 /*      light colors - used for select dropdown         */
@@ -52,8 +87,14 @@ h6, .h6 {
 }
 
 p {
-  font-size: 16px;
+  font-size: 24px;
   line-height: 1.4em;
+  font-family: ubuntu;
+}
+
+p .about-section {
+  font-size: 60px;
+
 }
 
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
@@ -559,7 +600,7 @@ input.ct-red + span + label + span.switch-right {
 
 .navbar .navbar-nav > li > a.btn-danger, .btn-danger {
   border-color: #EB5E28;
-  color: #EB5E28;
+  color: #FEA679;
 }
 .navbar .navbar-nav > li > a.btn-danger:hover, .navbar .navbar-nav > li > a.btn-danger:focus, .navbar .navbar-nav > li > a.btn-danger:active, .navbar .navbar-nav > li > a.btn-danger.active, .open > .navbar .navbar-nav > li > a.btn-danger.dropdown-toggle, .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
   background-color: #EB5E28;
@@ -1416,7 +1457,7 @@ textarea.form-control {
 }
 
 .section {
-  padding: 30px 0;
+  padding: 30px 0 60px 0px;
   position: relative;
   background-color: #f4f3ef;
   background-image: linear-gradient(to bottom, transparent 0%, rgba(112, 112, 112, 0) 60%, rgba(186, 186, 186, 0.15) 100%);
@@ -3057,6 +3098,7 @@ textarea.form-control {
     content: "";
     z-index: 9999;
     overflow-x: hidden;
+
   }
 
   .social-line .btn {

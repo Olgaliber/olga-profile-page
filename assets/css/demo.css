@@ -225,8 +225,9 @@ demo-header-image.tim-row{
     min-height: 600px;
 }
 .demo-header-image{
-    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/f5/3b/9d/f53b9d4d6f2fa49de1502207eff51396.jpg');
-}
+    /*background-image: url('https://s-media-cache-ak0.pinimg.com/originals/f5/3b/9d/f53b9d4d6f2fa49de1502207eff51396.jpg');*/
+    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/f7/a8/4b/f7a84b8cbbc5c5e6938e5f0411926f10.jpg');
+} 
 .demo-header .motto{
     color: #FFFFFF;
     padding-top: 25vh;

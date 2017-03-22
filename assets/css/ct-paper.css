@@ -600,7 +600,8 @@ input.ct-red + span + label + span.switch-right {
 
 .navbar .navbar-nav > li > a.btn-danger, .btn-danger {
   border-color: #EB5E28;
-  color: #FEA679;
+  /*color: #FEA679;*/
+  color: white;
 }
 .navbar .navbar-nav > li > a.btn-danger:hover, .navbar .navbar-nav > li > a.btn-danger:focus, .navbar .navbar-nav > li > a.btn-danger:active, .navbar .navbar-nav > li > a.btn-danger.active, .open > .navbar .navbar-nav > li > a.btn-danger.dropdown-toggle, .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open > .btn-danger.dropdown-toggle {
   background-color: #EB5E28;

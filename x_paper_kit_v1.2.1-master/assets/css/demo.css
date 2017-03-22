@@ -225,8 +225,10 @@
     min-height: 600px;
 }
 .demo-header-image{
-    background-image: url('../paper_img/city.jpg');
+    /*background-image: url('https://static.pexels.com/photos/50570/sandstone-the-wave-rock-nature-50570.jpeg');*/
+    /*background-image: url('../paper_img/city.jpg');*/
 }
+
 .demo-header .motto{
     color: #FFFFFF;
     padding-top: 25vh;
